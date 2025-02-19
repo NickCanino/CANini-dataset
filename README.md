@@ -36,7 +36,7 @@ Each attack has its peculiarity, and its effects on the traffic of the targeted 
 
 ## Repository Organization
 
-![dataset structure](images/dataset_augmentation_v3.png)
+![dataset structure](images/can-mirgu_repository.png)
 *Figure 2: Structure of the repository of our dataset, CANini, which comprehends CAN-MIRGU dataset and our extension with further benign and attack CAN traces.
 
 After downloading the *CANini* folder at the link [CANini Download](https://drive.google.com/drive/folders/1PRpj1szJDsWvfP7upyny1vBQDeYZDn8f?usp=drive_link), inside two main folders and a Python script can be noted. In particular:
