@@ -141,6 +141,7 @@ If you use this dataset in your work, please cite the following articles:
   author={Canino, Nicasio and Dini, Pierpaolo and Mazzetti, Stefano and Rossi, Daniele and Saponara, Sergio},
   journal={IEEE Access},
   year={2025},
+  doi={10.1109/ACCESS.2025.3561591},
   volume={TBA},
   number={TBA},
   pages={TBA},
