@@ -136,17 +136,18 @@ Every CSV file of the dataset has the same structure in which, the first row is 
 If you use this dataset in your work, please cite the following articles:
 
 ```latex
-@article{can_ini_dataset,
-  title={{CANini}: In-Depth Traffic Analysis for Design and Robustness Testing of DTree-based IDS in Automotive Networking Systems},
+@article{canini_dataset,
   author={Canino, Nicasio and Dini, Pierpaolo and Mazzetti, Stefano and Rossi, Daniele and Saponara, Sergio},
-  journal={IEEE Access},
+  journal={IEEE Access}, 
+  title={CANini: In-Depth Traffic Analysis for Design and Robustness Evaluation of DTree-Based IDS in Automotive Networking Systems}, 
   year={2025},
-  doi={10.1109/ACCESS.2025.3561591},
-  volume={TBA},
-  number={TBA},
-  pages={TBA},
-  publisher={IEEE}
+  volume={13},
+  number={},
+  pages={73236-73260},
+  keywords={Controller area networks;Protocols;Computer security;Payloads;Automotive engineering;Robustness;Monitoring;Computer architecture;Vehicle-to-everything;Traffic control;Anomaly detection;automotive;CAN dataset;cybersecurity;data mining;features extraction;intrusion detection;machine learning},
+  doi={10.1109/ACCESS.2025.3561591}
 }
+
 
 @article{can_mirgu_dataset,
   title={{CAN-MIRGU}: A Comprehensive CAN Bus Attack Dataset from Moving Vehicles for Intrusion Detection System Evaluation},
